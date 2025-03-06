@@ -1,0 +1,37 @@
+*{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: green;
+}
+h1{
+    color: rgb(0, 46, 0);
+}
+#dv{
+   display: flex;
+   flex-direction: row;
+   
+}
+#dv-1{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border: 1px solid purple;
+
+}
+#dv-2{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border: 1px solid purple;
+    
+    
+}
+#dv-3{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border: 1px solid purple;
+    
+}
